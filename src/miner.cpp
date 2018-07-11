@@ -13,6 +13,7 @@
 #include <consensus/tx_verify.h>
 #include <consensus/merkle.h>
 #include <consensus/validation.h>
+#include <cstdio>
 #include <hash.h>
 #include <net.h>
 #include <policy/feerate.h>
